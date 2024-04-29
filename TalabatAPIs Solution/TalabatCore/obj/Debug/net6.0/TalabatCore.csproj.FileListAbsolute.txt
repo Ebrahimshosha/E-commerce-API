@@ -1,0 +1,72 @@
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\refint\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\ref\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\refint\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\ref\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\refint\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\ref\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\refint\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\ref\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\refint\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\ref\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\refint\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatCore\obj\Debug\net6.0\ref\TalabatCore.dll

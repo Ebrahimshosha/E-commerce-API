@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A138028A-7345-468D-ADE2-AB4175EEADF2}|TalabatServices\\TalabatServices.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A138028A-7345-468D-ADE2-AB4175EEADF2}|TalabatServices\\TalabatServices.csproj|solutionrelative:talabatservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\helpers\\orderitempictureurlresolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\helpers\\orderitempictureurlresolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\extensions\\usermanagerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\extensions\\usermanagerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0EF460-13D0-4361-9FCF-8240E3235E6F}|TalabatRebosatiory\\TalabatRebosatiory.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatrebosatiory\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0EF460-13D0-4361-9FCF-8240E3235E6F}|TalabatRebosatiory\\TalabatRebosatiory.csproj|solutionrelative:talabatrebosatiory\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\dto\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\dto\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\dto\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\dto\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\dto\\orderitemtoretrundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\dto\\orderitemtoretrundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatapis\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEFB6D7-D133-48D5-AC2E-A30B9FF2FF2A}|TalabatAPIs\\TalabatAPIs.csproj|solutionrelative:talabatapis\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A138028A-7345-468D-ADE2-AB4175EEADF2}|TalabatServices\\TalabatServices.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatservices\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A138028A-7345-468D-ADE2-AB4175EEADF2}|TalabatServices\\TalabatServices.csproj|solutionrelative:talabatservices\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B9A2CE-EED7-49C9-BB7F-F70ED91DD706}|TalabatCore\\TalabatCore.csproj|e:\\route\\back-end\\8 webapi\\demoes\\talabat.apis\\session 5 after refactor with unitofwork\\talabatapis solution\\talabatcore\\repositories\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B9A2CE-EED7-49C9-BB7F-F70ED91DD706}|TalabatCore\\TalabatCore.csproj|solutionrelative:talabatcore\\repositories\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "TalabatAPIs\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:47:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatServices\\TokenService.cs",
+              "RelativeDocumentMoniker": "TalabatServices\\TokenService.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatServices\\TokenService.cs",
+              "RelativeToolTip": "TalabatServices\\TokenService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:46:18.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "TalabatAPIs\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:11:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemPictureUrlResolve.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Helpers\\OrderItemPictureUrlResolve.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Helpers\\OrderItemPictureUrlResolve.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Helpers\\OrderItemPictureUrlResolve.cs",
+              "RelativeToolTip": "TalabatAPIs\\Helpers\\OrderItemPictureUrlResolve.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:10:22.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagerExtension.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Extensions\\UserManagerExtension.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Extensions\\UserManagerExtension.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Extensions\\UserManagerExtension.cs",
+              "RelativeToolTip": "TalabatAPIs\\Extensions\\UserManagerExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:10:11.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatRebosatiory\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "TalabatRebosatiory\\BasketRepository.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatRebosatiory\\BasketRepository.cs",
+              "RelativeToolTip": "TalabatRebosatiory\\BasketRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:08:22.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Controllers\\BasketController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "TalabatAPIs\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:07:23.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "TalabatAPIs\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:05:10.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\DTO\\BasketItemDto.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\BasketItemDto.cs",
+              "RelativeToolTip": "TalabatAPIs\\DTO\\BasketItemDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:03:19.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Program.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Program.cs",
+              "RelativeToolTip": "TalabatAPIs\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:28:35.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\DTO\\OrderDto.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "TalabatAPIs\\DTO\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:03:06.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\AddressDto.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\DTO\\AddressDto.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\AddressDto.cs",
+              "RelativeToolTip": "TalabatAPIs\\DTO\\AddressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:03:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderToReturnDto.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\OrderToReturnDto.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\DTO\\OrderToReturnDto.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\OrderToReturnDto.cs",
+              "RelativeToolTip": "TalabatAPIs\\DTO\\OrderToReturnDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:02:35.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TalabatAPIs\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:44:17.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemToRetrunDto.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\OrderItemToRetrunDto.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\DTO\\OrderItemToRetrunDto.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\OrderItemToRetrunDto.cs",
+              "RelativeToolTip": "TalabatAPIs\\DTO\\OrderItemToRetrunDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:04:02.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\DTO\\ProductToReturnDto.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\DTO\\ProductToReturnDto.cs",
+              "RelativeToolTip": "TalabatAPIs\\DTO\\ProductToReturnDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:01:57.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CachedAttribute.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Helpers\\CachedAttribute.cs",
+              "RelativeDocumentMoniker": "TalabatAPIs\\Helpers\\CachedAttribute.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatAPIs\\Helpers\\CachedAttribute.cs",
+              "RelativeToolTip": "TalabatAPIs\\Helpers\\CachedAttribute.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:45:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponseCacheService.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatServices\\ResponseCacheService.cs",
+              "RelativeDocumentMoniker": "TalabatServices\\ResponseCacheService.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatServices\\ResponseCacheService.cs",
+              "RelativeToolTip": "TalabatServices\\ResponseCacheService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:48:49.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IResponseCacheService.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatCore\\Repositories\\IResponseCacheService.cs",
+              "RelativeDocumentMoniker": "TalabatCore\\Repositories\\IResponseCacheService.cs",
+              "ToolTip": "E:\\Route\\Back-end\\8 WebAPI\\Demoes\\Talabat.APIs\\Session 5 After Refactor with unitofwork\\TalabatAPIs Solution\\TalabatCore\\Repositories\\IResponseCacheService.cs",
+              "RelativeToolTip": "TalabatCore\\Repositories\\IResponseCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:41:17.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

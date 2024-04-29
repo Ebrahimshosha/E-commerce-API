@@ -1,0 +1,90 @@
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CopyComplete
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\refint\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\ref\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CopyComplete
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\refint\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 2\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\ref\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CopyComplete
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\refint\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 3\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\ref\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CopyComplete
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\refint\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 4\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\ref\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CopyComplete
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\refint\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\ref\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.deps.json
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\bin\Debug\net6.0\TalabatCore.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.AssemblyReference.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfoInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.AssemblyInfo.cs
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\refint\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatRebosatiory.pdb
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\ref\TalabatRebosatiory.dll
+E:\Route\Back-end\8 WebAPI\Demoes\Talabat.APIs\Session 5 After Refactor with unitofwork\TalabatAPIs Solution\TalabatRebosatiory\obj\Debug\net6.0\TalabatR.4AF5B5D0.Up2Date
